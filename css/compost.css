@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: sans-serif;
+    overflow: hidden;
+    background: url("https://wallpaperaccess.com/full/1155041.jpg");
+  }
+
+
+  .title {
+    margin-top: 10%;
+    margin-left: 40%;
+    color: aliceblue;
+
+  }
+
+  .grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    
+    padding: 10px;
+    transform: translate(-15%, 10%);
+  }
+  .grid-item {
+  
+    padding: 20px;
+    font-size: 30px;
+    text-align: left;
+  }

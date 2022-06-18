@@ -1,0 +1,11 @@
+Model Information:
+* title:	Compost Bin SM SG
+* source:	https://sketchfab.com/3d-models/compost-bin-sm-sg-daaa0514f23a4ca18e955ea576671ef0
+* author:	Pants85 (https://sketchfab.com/Pants85)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Compost Bin SM SG" (https://sketchfab.com/3d-models/compost-bin-sm-sg-daaa0514f23a4ca18e955ea576671ef0) by Pants85 (https://sketchfab.com/Pants85) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
