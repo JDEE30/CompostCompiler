@@ -10,3 +10,11 @@ VeggieArray[4] = new Image();VeggieArray[4].src = 'images/greenPepper.png';
 VeggieArray[5] = new Image();VeggieArray[5].src = 'images/Tomato.png';
 VeggieArray[6] = new Image();VeggieArray[6].src = 'images/Tomato.png';
 /* images for objects in array*/
+
+document.getElementsByClassName(veggie);
+
+function (veggie) {
+
+    
+}
+
